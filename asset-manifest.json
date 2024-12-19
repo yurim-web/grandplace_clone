@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31ecb818.css",
+    "main.js": "/static/js/main.bf67ef30.js",
+    "static/media/NotoSerif-Regular.ttf": "/static/media/NotoSerif-Regular.0a96c61e5140580de060.ttf",
+    "index.html": "/index.html",
+    "main.31ecb818.css.map": "/static/css/main.31ecb818.css.map",
+    "main.bf67ef30.js.map": "/static/js/main.bf67ef30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ecb818.css",
+    "static/js/main.bf67ef30.js"
+  ]
+}
